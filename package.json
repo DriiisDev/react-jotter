@@ -20,7 +20,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "dev": "postcss src/static/styles.css -o src/static/style.css --watch"
+    "css": "postcss src/static/style.css -o src/static/index.css --watch"
   },
   "eslintConfig": {
     "extends": [
