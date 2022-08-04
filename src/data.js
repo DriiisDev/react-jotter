@@ -1,6 +1,5 @@
 
-
-export const books = [
+const books = [
     {
       id: 1,
       img: 'https://images-na.ssl-images-amazon.com/images/I/51p2SDOCV9L._SX482_BO1,204,203,200_.jpg',
@@ -21,4 +20,6 @@ export const books = [
       title: 'eloquent javascript',
       author: 'majiri onazofe'
     }
-  ];  
+  ];
+
+export default books;
