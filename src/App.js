@@ -1,10 +1,10 @@
 import React from 'react'
-import BookList from './booklist'
+import Counter from './testUseReducer/counter'
 
 const App = () => {
     return (
         <div>
-            <BookList />
+            <Counter />
         </div>
     )
 }
